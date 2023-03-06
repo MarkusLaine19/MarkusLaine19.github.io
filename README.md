@@ -1,2 +1,1 @@
-# MarkusLaine19.github.io
- Wautsiwau
+Verkkosivujen kehittäminen opintojakson repositorio
